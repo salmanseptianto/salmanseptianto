@@ -9,11 +9,10 @@
 ## Education:
 
 #### 1. [Politeknik Harapan Bersama](https://poltekharber.ac.id/) | Bachelor of Informatic Engineering | Tegal `2019 - Present`
-   - Asistant Laboratorium of Basic Electronics
-   - Asistant Laboratorium of Installation
-   - Tutor of Engineering Mathematics
- #### 2. [SMA N 1 Kebumen](https://www.sman1kebumen.sch.id) | MIPA | Kebumen `2013-2016`
+   - vice chairman of the WEB MOBILE COMUNITY (WM.COM) organization
+ #### 2. [MAN 1 Brebes](https://man1brebes.sch.id/) | IIK | Brebes `2016-2019`
    - Chief of Rohkris
+   - scout member
 
 ---
 
