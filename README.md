@@ -37,7 +37,6 @@
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/m-salman-septianto-684899224/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/m-salman-septianto-684899224/#gh-dark-mode-only)
 &nbsp;&nbsp;
-&nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/salmanseptianto32#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/salmanseptianto32#gh-dark-mode-only)
 
