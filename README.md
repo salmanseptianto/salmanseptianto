@@ -34,8 +34,8 @@
 [![website](./img/twitter-light.svg)](https://twitter.com/salmanseptianto#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/salmanseptianto#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/vincentwidyan#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/vincentwidyan#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/m-salman-septianto-684899224/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/m-salman-septianto-684899224/#gh-dark-mode-only)
 &nbsp;&nbsp;
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/salmanseptianto32#gh-light-mode-only)
