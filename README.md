@@ -11,6 +11,8 @@
 - 📫 How to reach me: salmanseptianto0@gmail.com
 ```
 <!--END_SECTION:waka-->
+<br />
+<br />
 
 ## Education:
 
