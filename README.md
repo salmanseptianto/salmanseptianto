@@ -45,7 +45,7 @@
 
 ##This Week I Spent My Time On:
 
-Python      &nbsp;&nbsp; 7 hrs 41 mins   ████████████▓░░░░░░░░░░░░   50.67 % 
+Python    7 hrs 41 mins   ████████████▓░░░░░░░░░░░░   50.67 % 
 <br />
 C++         &nbsp;&nbsp; 4 hrs 42 mins   ███████▓░░░░░░░░░░░░░░░░   31.04 % 
 <br />
