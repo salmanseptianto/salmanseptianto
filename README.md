@@ -2,6 +2,8 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ## About me:
+<!--START_SECTION:waka-->
+```text
 - 🌱 I’m currently learning Python,Javascript,Html,CSS,PHP,and others
 <br />
 - 👯 I’m looking to collaborate as Data Analyst,UI/UX Design
@@ -11,6 +13,8 @@
 - 💬 Ask me about anything
 <br />
 - 📫 How to reach me: salmanseptianto0@gmail.com
+```
+<!--END_SECTION:waka-->
 <br />
 <br />
 <br />
