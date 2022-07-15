@@ -49,7 +49,7 @@ Python    7 hrs 41 mins   ████████████▓░░░░░
 <br />
 C++         &nbsp;&nbsp; 4 hrs 42 mins   ███████▓░░░░░░░░░░░░░░░░   31.04 % 
 <br />
-PHP          &nbsp;&nbsp;52 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
+PHP          &nbsp;&nbsp&nbsp;&nbsp&nbsp;&nbsp;52 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
 <br />
 JavaScript   &nbsp;&nbsp;42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
 <br />
