@@ -14,6 +14,18 @@
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
 ## Education:
 
 #### 1. [Politeknik Harapan Bersama](https://poltekharber.ac.id/) | Bachelor of Informatic Engineering | Tegal `2019 - Present`
