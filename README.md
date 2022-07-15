@@ -43,4 +43,12 @@
 <br />
 <br />
 
+##This Week I Spent My Time On:
+
+Python       7 hrs 41 mins   ████████████▓░░░░░░░░░░░░   50.67 % 
+C++          4 hrs 42 mins   ███████▓░░░░░░░░░░░░░░░░   31.04 % 
+PHP          52 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
+JavaScript   42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
+Git Config   36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+
 [webdev]: https://github.com/aderastafara32/aderastafara32
