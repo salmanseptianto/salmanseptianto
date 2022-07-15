@@ -5,22 +5,12 @@
 <!--START_SECTION:waka-->
 ```text
 - 🌱 I’m currently learning Python,Javascript,Html,CSS,PHP,and others
-<br />
 - 👯 I’m looking to collaborate as Data Analyst,UI/UX Design
-<br />
 - 🤔 I’m looking for suggest for Automation and Data Analyst
-<br />
 - 💬 Ask me about anything
-<br />
 - 📫 How to reach me: salmanseptianto0@gmail.com
 ```
 <!--END_SECTION:waka-->
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
 
 ## Education:
 
