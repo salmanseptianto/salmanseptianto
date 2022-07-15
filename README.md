@@ -1,6 +1,6 @@
 # Hi there, I'm Salman - aka [M.SALMAN SEPTIANTO] 👋
-## About me:
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+## About me:
 - 🌱 I’m currently learning Python,Javascript,Html,CSS,PHP,and others
 <br />
 - 👯 I’m looking to collaborate as Data Analyst,UI/UX Design
@@ -10,9 +10,6 @@
 - 💬 Ask me about anything
 <br />
 - 📫 How to reach me: salmanseptianto0@gmail.com
-<br />
-<br />
-<br />
 <br />
 <br />
 <br />
