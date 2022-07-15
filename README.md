@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alfin Auzikri</h1>
+<h1 align="center">Hi 👋, I'm M.Salman Septianto</h1>
 <h4 align="center">Life is like riding a bicycle. To keep your balance, you must keep moving..</h4>
 <p align="center"><img alt="Alfin Auzikri" unselectable="on" src="https://komarev.com/ghpvc/?username=alfinauzikri&label=Profile%20views&color=0e75b6&style=flat"/></p>
 <p align="center">
@@ -9,7 +9,7 @@
 </p>
 <h2 align="center">📫 Connect with me:</h2>
 <p align="center">
-<a href="https://www.linkedin.com/in/alfinauzikri"><img src="https://img.shields.io/badge/-alfinauzikri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alfinauzikri/"/></a>
-<a href="https://instagram.com/alfauzikri"><img src="https://img.shields.io/badge/-@alfauzikri-f56040?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/alfauzikri"/></a>
-<a href="mailto:iyalfin@gmail.com"><img src="https://img.shields.io/badge/-iyalfin@gmail.com-db4437?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iyalfin@gmail.com"/></a>
+<a href="https://www.linkedin.com/in/m-salman-septianto-684899224/"><img src="https://img.shields.io/badge/-alfinauzikri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/m-salman-septianto-684899224/"/></a>
+<a href="https://instagram.com/salmanseptianto32"><img src="https://img.shields.io/badge/-@alfauzikri-f56040?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/salmanseptianto32"/></a>
+<a href="mailto:salmanseptianto0@gmail.com"><img src="https://img.shields.io/badge/-salmanseptianto0@gmail.com-db4437?style=flat-square&logo=Gmail&logoColor=white&link=mailto:salmanseptianto0@gmail.com"/></a>
 </p>
